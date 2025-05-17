@@ -1,8 +1,0 @@
-int defn(){
-    return 4;
-}
-
-int main(){
-    int a=1;
-    return a;
-}
